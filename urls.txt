@@ -1,0 +1,4 @@
+http://localhost:8080/oauth2/authorize?response_type=code&client_id=client&scope=openid&redirect_uri=http://spring.io/auth
+
+
+https://spring.io/auth?code=E38XGUpAh89iRiTdGbS6JSYSWU5R6y7jZomV6zFvXc7QLZwILUUXT5G8TjvR6hlHlaicBXlDvonHGHcpxnHA7QyKaLKmdfp0cGZY_PzNaLTt_iroDFhkygYUO50ri7mO
